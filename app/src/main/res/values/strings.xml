@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone UX Logger</string>
+    <string name="accessibility_description">Локально фиксирует метаданные действий интерфейса для анализа удобства телефона. Не сохраняет введённый текст.</string>
+</resources>
